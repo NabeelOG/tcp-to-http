@@ -159,7 +159,7 @@ Why it matters:
 This chapter adds binary payload handling and combines previous concepts.
 
 What it demonstrates:
-- Serving an MP4 file (`assets/vim.mp4`) with `Content-Type: video/mp4`.
+- Serving an MP4 file (`9-Binary-Data/assets/vim.mp4`) with `Content-Type: video/mp4`.
 - Correct binary-safe writes over the response stream.
 - Keeping route-based behavior, including chunked proxy path and normal HTML paths.
 
