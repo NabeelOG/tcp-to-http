@@ -174,7 +174,7 @@ Why it matters:
 Example (chapter 7):
 
 ```bash
-cd /home/runner/work/tcp-to-http/tcp-to-http/7-HTTP-Response
+cd 7-HTTP-Response
 go run cmd/httpserver/main.go
 ```
 
@@ -197,7 +197,7 @@ curl -i http://localhost:42069/
 Run tests from the chapter directory:
 
 ```bash
-cd /home/runner/work/tcp-to-http/tcp-to-http/5-HTTP-Headers
+cd 5-HTTP-Headers
 go test ./...
 ```
 
